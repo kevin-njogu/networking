@@ -1,4 +1,4 @@
-# Project: Basic Network Configuration
+# Project: Device Configuration
 
 ## Overview
 This lab demonstrates basic device configuration in packet tracer, with a 3650 Switch, a 2911 Router, Console cables and two laptops.
@@ -15,18 +15,6 @@ This lab demonstrates basic device configuration in packet tracer, with a 3650 S
 3. Preview initial device booting process
 4. Rename the devices and save the running configs
 
-## Key Configurations
-
-### Switch Configuration
-```
-Cosole port
- Laptop 1
-```
-### Router Configuration
-```
-Cosole port
- Laptop 2
-```
 ## Verification
 - Establish connection to the switch and the router
 - Enter configuration mode and change host names
